@@ -5,7 +5,7 @@
 
 - 👨‍💻 Semua proyek saya tersedia di [Syahrul-Fajar.github.io](Syahrul-Fajar.github.io)
 
-- 📝 Saya secara teratur menulis artikel tentang [syahrullfajar.blogspot.com](syahrullfajar.blogspot.com)
+- 📝 Saya secara teratur menulis artikel tentang [syahrullfajar.blogspot.com](https://syahrullfajar.blogspot.com)
 
 - 📫 Bagaimana cara menghubungi saya? **syhrlfajar@gmail.com**
 
