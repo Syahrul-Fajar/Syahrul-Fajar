@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahrul-fajar&label=Profile%20views&color=0e75b6&style=flat" alt="syahrul-fajar" /> </p>
 
-- 👨‍💻 Semua proyek saya tersedia di [Syahrul-Fajar.github.io](Syahrul-Fajar.github.io)
+- 👨‍💻 Semua proyek saya tersedia di [Syahrul-Fajar.github.io](https://syahrul-fajar.github.io)
 
 - 📝 Saya secara teratur menulis artikel tentang [syahrullfajar.blogspot.com](https://syahrullfajar.blogspot.com)
 
